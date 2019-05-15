@@ -19,10 +19,12 @@ This is done to test the accuracies of prediction for different filter settings 
 
 ### Implementation instructions -
 Download all the .py files and place them in same folder.
+
 Only run 'dataPreprocessing.py' file.
+
 It will ask whether you want to build word cloud. If yes, specify the name of subreddit for word cloud(This is extra feature).
 After the word cloud, console will ask for
-Number of subreddits to classify and
-Names of subreddits.
+- Number of subreddits to classify and
+- Names of subreddits.
 
 It will send the control to 'redditClassifier.py' file for implematation of actual training models and predictions.
