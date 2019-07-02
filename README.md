@@ -3,7 +3,6 @@ Developed a Subreddit category predictive model which determines category of a r
 
 ## Table of contents:
 * [Introduction](#introduction)
-* [Prediction models used](#prediction-models-used)
 * [Implementation Details](#implementation-details)
 * [Implementation Instructions](#implementation-instructions)
 
@@ -27,7 +26,7 @@ This is done to test the accuracies of prediction for different filter settings 
 - Maximize prediction score high as possible
 
 
-## Implementation Instructions -
+## Implementation Instructions:
 Download all the .py files and place them in same folder.
 
 Only run 'dataPreprocessing.py' file.
