@@ -7,7 +7,7 @@ Developed a Subreddit category predictive model which determines category of a r
 * [Implementation Instructions](#implementation-instructions)
 
 ## Introduction:
-  As we have enormous amount of data flowing in the social media like reddit everyday, it is important that one must be up to date about the important issues. However, understanding a post belongs to which class of subreddit is really important; as we don’t want to waste our time on unimportant posts. This problem can be solved by creating a simple subreddit category prediction model.
+As we have enormous amount of data flowing in the social media like reddit everyday, it is important that one must be up to date about the important issues. However, understanding a post belongs to which class of subreddit is really important; as we don’t want to waste our time on unimportant posts. This problem can be solved by creating a simple subreddit category prediction model. Data scrapped from PRAW(Reddit API).
 
 ## Implementation Details:
 ### Prediction models used -
